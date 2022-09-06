@@ -1,14 +1,16 @@
 package views;
 
-import com.github.sarxos.webcam.Webcam;
+import com.github.sarxos.webcam.*;
 
+import java.awt.*;
+import java.awt.image.BufferedImage;
+import java.nio.ByteBuffer;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
 public class VideoCam {
-    //TODO 考虑是否使用一个类来切换摄像头
     private Map<String,Webcam> webcamMap;
     private List<Webcam> webcams;
     private Webcam webcam;
@@ -67,3 +69,155 @@ public class VideoCam {
         this.device_names = device_names;
     }
 }
+
+//class NewWebCam extends Webcam {
+//
+//    public NewWebCam(WebcamDevice webcamDevice) {
+//        super(webcamDevice);
+//    }
+//
+//    @Override
+//    protected void notifyWebcamImageAcquired(BufferedImage image) {
+//        super.notifyWebcamImageAcquired(image);
+//    }
+//
+//    @Override
+//    public boolean open() {
+//        return super.open();
+//    }
+//
+//    @Override
+//    public boolean open(boolean async) {
+//        return super.open(async);
+//    }
+//
+//    @Override
+//    public boolean open(boolean async, WebcamUpdater.DelayCalculator delayCalculator) {
+//        return super.open(async, delayCalculator);
+//    }
+//
+//    @Override
+//    public boolean close() {
+//        return super.close();
+//    }
+//
+//    @Override
+//    public WebcamDevice getDevice() {
+//        return super.getDevice();
+//    }
+//
+//    @Override
+//    protected void dispose() {
+//        super.dispose();
+//    }
+//
+//    @Override
+//    protected BufferedImage transform(BufferedImage image) {
+//        return super.transform(image);
+//    }
+//
+//    @Override
+//    public boolean isOpen() {
+//        return super.isOpen();
+//    }
+//
+//    @Override
+//    public Dimension getViewSize() {
+//        return super.getViewSize();
+//    }
+//
+//    @Override
+//    public Dimension[] getViewSizes() {
+//        return super.getViewSizes();
+//    }
+//
+//    @Override
+//    public void setCustomViewSizes(Dimension... sizes) {
+//        super.setCustomViewSizes(sizes);
+//    }
+//
+//    @Override
+//    public Dimension[] getCustomViewSizes() {
+//        return super.getCustomViewSizes();
+//    }
+//
+//    @Override
+//    public void setViewSize(Dimension size) {
+//        super.setViewSize(size);
+//    }
+//
+//    @Override
+//    public BufferedImage getImage() {
+//        return super.getImage();
+//    }
+//
+//    @Override
+//    public boolean isImageNew() {
+//        return super.isImageNew();
+//    }
+//
+//    @Override
+//    public double getFPS() {
+//        return super.getFPS();
+//    }
+//
+//    @Override
+//    public ByteBuffer getImageBytes() {
+//        return super.getImageBytes();
+//    }
+//
+//    @Override
+//    public void getImageBytes(ByteBuffer target) {
+//        super.getImageBytes(target);
+//    }
+//
+//    @Override
+//    public void setParameters(Map<String, ?> parameters) {
+//        super.setParameters(parameters);
+//    }
+//
+//    @Override
+//    public String getName() {
+//        return super.getName();
+//    }
+//
+//    @Override
+//    public String toString() {
+//        return super.toString();
+//    }
+//
+//    @Override
+//    public boolean addWebcamListener(WebcamListener l) {
+//        return super.addWebcamListener(l);
+//    }
+//
+//    @Override
+//    public WebcamListener[] getWebcamListeners() {
+//        return super.getWebcamListeners();
+//    }
+//
+//    @Override
+//    public int getWebcamListenersCount() {
+//        return super.getWebcamListenersCount();
+//    }
+//
+//    @Override
+//    public boolean removeWebcamListener(WebcamListener l) {
+//        return super.removeWebcamListener(l);
+//    }
+//
+//    @Override
+//    public WebcamImageTransformer getImageTransformer() {
+//        return super.getImageTransformer();
+//    }
+//
+//    @Override
+//    public void setImageTransformer(WebcamImageTransformer transformer) {
+//        super.setImageTransformer(transformer);
+//    }
+//
+//    @Override
+//    public WebcamLock getLock() {
+//        return super.getLock();
+//    }
+//}

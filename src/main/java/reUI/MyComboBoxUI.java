@@ -21,8 +21,8 @@ public class MyComboBoxUI extends BasicComboBoxUI {
         JComboBox comboBox = (JComboBox) c;
         comboBox.setFocusable(true);
         comboBox.setOpaque(false);
-
-        comboBox.setRenderer(new MyListCellRenderer());
+        ListCellRenderer listCellRenderer = new MyListCellRenderer();
+        comboBox.setRenderer(listCellRenderer);
     }
 
     @Override
@@ -70,7 +70,7 @@ public class MyComboBoxUI extends BasicComboBoxUI {
         }
 
         // 边框透明度
-        //g2d.setComposite(AlphaComposite.getInstance(AlphaComposite.SRC_OVER, 0.5f));
+        g2d.setComposite(AlphaComposite.getInstance(AlphaComposite.SRC_OVER, 0.5f));
 
         // 绘制边框，后两个参数控制圆角
         // 边框也有占位，所以宽高都需要减去2，否则会导致边框不全

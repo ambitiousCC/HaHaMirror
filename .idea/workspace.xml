@@ -1,7 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60e225a2-c64e-4508-bda8-06203f8ef5be" name="Default Changelist" comment="" />
+    <list default="true" id="60e225a2-c64e-4508-bda8-06203f8ef5be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/face1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/face2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forever-alone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgDir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/makeVideo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/me-gusta.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/save.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/demos/FileChooserFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/demos/ImageTransformer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/demos/ImageTransformer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/demos/ObjectFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/demos/Simple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/demos/SnapVideos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/event/StatusEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/listener/StatusListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/transformers/MakeVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/transformers/MyEffective.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/transformers/TransformerUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/transformers/taskFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/webcapTest/DetectMotionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/webcapTest/JProgressBarDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/webcapTest/MakeVideoExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/webcapTest/MuiltDetection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/webcapTest/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/webcapTest/timeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stop2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videoDir.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mask1.png" beforeDir="false" afterPath="$PROJECT_DIR$/mask1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mask2.png" beforeDir="false" afterPath="$PROJECT_DIR$/mask2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mask3.png" beforeDir="false" afterPath="$PROJECT_DIR$/mask3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mask4.png" beforeDir="false" afterPath="$PROJECT_DIR$/mask4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/reUI/MyComboBoxUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reUI/MyComboBoxUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/reUI/MyListCellRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reUI/MyListCellRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/views/VideoCam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/views/VideoCam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/views/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/views/Window.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webcapTest/FacePainterExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webcapTest/FacePainterExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webcapTest/simpleVideo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/reUI/MyButtonUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/reUI/MyButtonUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/reUI/MyComboBoxUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/reUI/MyComboBoxUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/reUI/MyListCellRenderer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/reUI/MyListCellRenderer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/views/SelectedListCellRenderer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/views/SelectedListCellRenderer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/views/VideoCam.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/views/VideoCam.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/views/Window$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/views/Window$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/views/Window$10$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/views/Window$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/views/Window$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/views/Window$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/views/Window$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/views/Window$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/views/Window$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/views/Window$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/views/Window$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/views/Window$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/views/Window$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/views/Window$6$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/views/Window$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/views/Window$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/views/Window$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/views/Window$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/views/Window$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/views/Window$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/views/Window$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/views/Window$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/views/Window.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/views/Window.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webcapTest/FacePainterExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webcapTest/FacePainterExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webcapTest/SelectedListCellRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webcapTest/WebcamConnectingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webcapTest/WebcamConnectingTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webcapTest/WecamTutorial$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webcapTest/WecamTutorial$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webcapTest/WecamTutorial$2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webcapTest/WecamTutorial$2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webcapTest/WecamTutorial$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webcapTest/WecamTutorial$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webcapTest/WecamTutorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webcapTest/WecamTutorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webcapTest/simpleCutImg.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webcapTest/simpleCutImg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webcapTest/simpleVideo.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,19 +88,135 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/views/Window.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="860">
-              <caret line="43" column="33" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
+            <state relative-caret-position="-930">
+              <caret line="592" column="76" lean-forward="true" selection-start-line="592" selection-start-column="76" selection-end-line="592" selection-end-column="76" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1270#1313#0" />
+                <element signature="e#4236#4296#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/webcapTest/WecamTutorial.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/transformers/TransformerUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="35" column="52" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
+            <state relative-caret-position="360">
+              <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/transformers/taskFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="84" column="29" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#407#408#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/views/VideoCam.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="620">
+              <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/transformers/MyEffective.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3297">
+              <caret line="432" column="16" selection-start-line="432" selection-start-column="16" selection-end-line="432" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;method#filter#0;class#MyEffective#0" />
+                <element signature="e#1371#1372#0" expanded="true" />
+                <element signature="e#1398#1399#0" expanded="true" />
+                <element signature="method#basicTransformers#0;class#MyEffective#0" />
+                <element signature="method#basicEffects#0;class#MyEffective#0" />
+                <element signature="method#saveToSrc#0;class#MyEffective#0" />
+                <element signature="docComment;method#chooseEffects#0;class#MyEffective#0" />
+                <element signature="docComment;method#basicEffect1#0;class#MyEffective#0" />
+                <element signature="docComment;method#basicEffect2#0;class#MyEffective#0" />
+                <element signature="docComment;method#basicEffect3#0;class#MyEffective#0" />
+                <element signature="method#basicEffect4#0;class#MyEffective#0" />
+                <element signature="docComment;method#basicEffect5#0;class#MyEffective#0" />
+                <element signature="method#basicEffect5#0;class#MyEffective#0" />
+                <element signature="docComment;method#basicEffect6#0;class#MyEffective#0" />
+                <element signature="docComment;method#basicEffect7#0;class#MyEffective#0" />
+                <element signature="docComment;method#basicEffect8#0;class#MyEffective#0" />
+                <element signature="method#basicEffect8#0;class#MyEffective#0" />
+                <element signature="docComment;method#basicEffect9#0;class#MyEffective#0" />
+                <element signature="method#basicEffect9#0;class#MyEffective#0" />
+                <element signature="docComment;method#basicEffect10#0;class#MyEffective#0" />
+                <element signature="docComment;method#basicEffect11#0;class#MyEffective#0" />
+                <element signature="docComment;field#martrix#0;class#MyEffective#0" />
+                <element signature="method#readPixel#0;class#MyEffective#0" />
+                <element signature="method#fillMatrix#0;class#MyEffective#0" />
+                <element signature="docComment;method#basicEffect13#0;class#MyEffective#0" />
+                <element signature="docComment;method#combineTransformer#0;class#MyEffective#0" />
+                <element signature="docComment;method#basicTransformer5#0;class#MyEffective#0" />
+                <element signature="method#basicTransformer5#0;class#MyEffective#0" />
+                <element signature="docComment;method#basicTransformer4#0;class#MyEffective#0" />
+                <element signature="docComment;method#basicTransformer3#0;class#MyEffective#0" />
+                <element signature="method#basicTransformer3#0;class#MyEffective#0" />
+                <element signature="docComment;method#basicTransformer2#0;class#MyEffective#0" />
+                <element signature="method#basicTransformer2#0;class#MyEffective#0" />
+                <element signature="method#basicTransformer1#0;class#MyEffective#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/reUI/MyButtonUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/reUI/MyComboBoxUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/reUI/MyListCellRenderer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/transformers/MakeVideo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="499">
+              <caret line="126" selection-start-line="126" selection-end-line="126" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -37,76 +225,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/views/Window.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/demos/ObjectFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-              <folding>
-                <element signature="method#setOptions#0;class#Window#0" />
-                <element signature="method#cutImage#0;class#Window#0" />
-                <element signature="method#hahaMagic#0;class#Window#0" />
-                <element signature="method#basicMagic#0;class#Window#0" />
-                <element signature="method#setOpenAndHelp#0;class#Window#0" />
-                <element signature="method#getNormailBtns#0;class#Window#0" />
-                <element signature="method#cutImageFrame#0;class#Window#0" />
-                <element signature="method#defaultFrame#0;class#Window#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/webcapTest/WebcamConnectingTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_271/src.zip!/javax/imageio/ImageIO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24980">
-              <caret line="1345" column="48" selection-start-line="1345" selection-start-column="37" selection-end-line="1345" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/views/VideoCam.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1091#1092#0" expanded="true" />
-                <element signature="e#1120#1121#0" expanded="true" />
-                <element signature="e#1164#1165#0" expanded="true" />
-                <element signature="e#1200#1201#0" expanded="true" />
-                <element signature="e#1250#1251#0" expanded="true" />
-                <element signature="e#1297#1298#0" expanded="true" />
-                <element signature="e#1325#1326#0" expanded="true" />
-                <element signature="e#1352#1353#0" expanded="true" />
-                <element signature="e#1389#1390#0" expanded="true" />
-                <element signature="e#1421#1422#0" expanded="true" />
-                <element signature="e#1462#1463#0" expanded="true" />
-                <element signature="e#1497#1498#0" expanded="true" />
-                <element signature="e#1555#1556#0" expanded="true" />
-                <element signature="e#1603#1604#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/webcapTest/simpleCutImg.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="13" column="62" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
+            <state relative-caret-position="-838">
+              <caret line="22" column="16" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -125,51 +247,135 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>String</find>
-      <find>下拉</find>
-      <find>webcam</find>
-      <find>devices</find>
-      <find>stop</find>
+      <find>System.out.println</find>
+      <find>show</find>
+      <find>Fram</find>
+      <find>Frame</find>
+      <find>makeVideo</find>
+      <find>makeBtn</find>
+      <find>stateChanged</find>
+      <find>paintImage</find>
+      <find>set</find>
+      <find>time</find>
+      <find>shutdown</find>
+      <find>face</find>
+      <find>UI</find>
+      <find>JFile</find>
+      <find>mp4</find>
+      <find>MPEG4</find>
+      <find>transform</find>
+      <find>transfor</find>
+      <find>transforme</find>
+      <find>changeTransformer</find>
+      <find>by D</find>
+      <find>中心</find>
+      <find>熔</find>
+      <find>切换</find>
+      <find>curStatus</find>
+      <find>playStatus</find>
+      <find>playStatus[1]</find>
+      <find>停止</find>
+      <find>设置</find>
+      <find>保存</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/reUI/MyButtonUI.java" />
-        <option value="$PROJECT_DIR$/src/main/java/reUI/MyComboBoxUI.java" />
-        <option value="$PROJECT_DIR$/src/main/java/reUI/MyListCellRenderer.java" />
         <option value="$PROJECT_DIR$/src/main/java/demos/videoCut.java" />
         <option value="$PROJECT_DIR$/src/main/java/demos/JavaCameraTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/webcapTest/simpleCutImg.java" />
         <option value="$PROJECT_DIR$/src/main/java/webcapTest/simpleVideo.java" />
         <option value="$PROJECT_DIR$/src/main/java/webcapTest/WecamTutorial.java" />
-        <option value="$PROJECT_DIR$/src/main/java/views/VideoCam.java" />
-        <option value="$PROJECT_DIR$/src/main/java/views/Window.java" />
         <option value="$PROJECT_DIR$/src/main/java/webcapTest/WebcamConnectingTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/webcapTest/haha.java" />
+        <option value="$PROJECT_DIR$/src/main/java/demos/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/demos/FileChooserFrame.java" />
+        <option value="$PROJECT_DIR$/src/main/java/demos/ObjectFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/views/optionFrameWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reUI/MyButtonUI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reUI/MyComboBoxUI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reUI/MyListCellRenderer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/demos/EffectiveAdd.java" />
+        <option value="$PROJECT_DIR$/src/main/java/demos/ImageTransformer2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/demos/GaussianBlur.java" />
+        <option value="$PROJECT_DIR$/src/main/java/webcapTest/MyTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/webcapTest/MuiltDetection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/webcapTest/Tests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/demos/ImageTransformer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/demos/SnapVideos.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/listener/PercentListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/event/PercentEvent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/demos/testListenerExecuter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/listener/StatusListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/demos/run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/demos/videoDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/transformers/videoDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/transformers/makeVideo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/transformers/MakeVideo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/Status.java" />
+        <option value="$PROJECT_DIR$/src/main/java/views/VideoCam.java" />
+        <option value="$PROJECT_DIR$/src/main/java/webcapTest/timeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/webcapTest/JProgressBarDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/webcapTest/DetectMotionDoNotEngageZoneExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/webcapTest/DetectMotionEventsExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/webcapTest/DetectMotionExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/webcapTest/FacePainterExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/demos/Simple.java" />
+        <option value="$PROJECT_DIR$/src/main/java/transformers/TaskEffective.java" />
+        <option value="$PROJECT_DIR$/src/main/java/transformers/taskFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/transformers/MyEffective.java" />
+        <option value="$PROJECT_DIR$/src/main/java/transformers/TransformerUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/views/Window.java" />
       </list>
     </option>
   </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="S:\apache-maven-3.5.4\repository" />
+        <option name="userSettingsFile" value="S:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="com.ambitiouscc" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="com.ambitiouscc" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-108" />
-    <option name="y" value="-24" />
-    <option name="width" value="2184" />
-    <option name="height" value="1320" />
+    <option name="x" value="357" />
+    <option name="y" value="-42" />
+    <option name="width" value="1101" />
+    <option name="height" value="1404" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -201,6 +407,38 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hahaMirror" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCV" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hahaMirror" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCV" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="event" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hahaMirror" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCV" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="listener" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hahaMirror" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCV" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="reUI" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -209,7 +447,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="transformers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hahaMirror" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCV" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="transformers" type="462c0819:PsiDirectoryNode" />
+              <item name="taskFilter.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="hahaMirror" type="b2602c69:ProjectViewProjectNode" />
@@ -218,15 +465,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="Window.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="hahaMirror" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaCV" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="webcapTest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hahaMirror" type="b2602c69:ProjectViewProjectNode" />
@@ -238,8 +476,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -247,6 +483,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -254,8 +491,8 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.7240964" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="project.structure.side.proportion" value="0.2635379" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -280,6 +517,32 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Window">
+    <configuration name="DetectMotionEventsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="webcapTest.DetectMotionEventsExample" />
+      <module name="JavaCV" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="webcapTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DetectMotionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="webcapTest.DetectMotionExample" />
+      <module name="JavaCV" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="webcapTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FacePainterExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="webcapTest.FacePainterExample" />
       <module name="JavaCV" />
@@ -293,25 +556,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WebcamConnectingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="webcapTest.WebcamConnectingTest" />
+    <configuration name="Simple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demos.Simple" />
       <module name="JavaCV" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="webcapTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WecamTutorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="webcapTest.WecamTutorial" />
-      <module name="JavaCV" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="webcapTest.*" />
+          <option name="PATTERN" value="demos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -332,26 +582,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="simpleCutImg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="webcapTest.simpleCutImg" />
-      <module name="JavaCV" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="webcapTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.DetectMotionEventsExample" />
+      <item itemvalue="Application.DetectMotionExample" />
+      <item itemvalue="Application.FacePainterExample" />
+      <item itemvalue="Application.Window" />
+      <item itemvalue="Application.Simple" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Window" />
+        <item itemvalue="Application.Simple" />
         <item itemvalue="Application.FacePainterExample" />
-        <item itemvalue="Application.WebcamConnectingTest" />
-        <item itemvalue="Application.WecamTutorial" />
-        <item itemvalue="Application.simpleCutImg" />
+        <item itemvalue="Application.DetectMotionExample" />
+        <item itemvalue="Application.DetectMotionEventsExample" />
       </list>
     </recent_temporary>
   </component>
@@ -374,11 +618,38 @@
       <workItem from="1617692765977" duration="10656000" />
       <workItem from="1617871028603" duration="27000" />
       <workItem from="1617926347495" duration="78000" />
+      <workItem from="1618291975874" duration="1459000" />
+      <workItem from="1618297260024" duration="6000000" />
+      <workItem from="1618305405619" duration="10082000" />
+      <workItem from="1618399455133" duration="5000" />
+      <workItem from="1618925007308" duration="2123000" />
+      <workItem from="1618995499025" duration="18000" />
+      <workItem from="1619171210126" duration="3000" />
+      <workItem from="1620779507730" duration="37113000" />
+      <workItem from="1620831425021" duration="1632000" />
+      <workItem from="1620872562796" duration="32359000" />
+      <workItem from="1620916899546" duration="898000" />
+      <workItem from="1620950562467" duration="1660000" />
+      <workItem from="1620952464787" duration="18000" />
+      <workItem from="1620952601339" duration="21440000" />
+      <workItem from="1620993788857" duration="9000" />
+      <workItem from="1621057186603" duration="13378000" />
+      <workItem from="1621246371147" duration="1672000" />
+      <workItem from="1621262030750" duration="65000" />
+      <workItem from="1621321225581" duration="1730000" />
+      <workItem from="1621324771656" duration="3127000" />
+      <workItem from="1621430721812" duration="5000" />
+      <workItem from="1623128069295" duration="87000" />
+      <workItem from="1623128202581" duration="5262000" />
+      <workItem from="1623135354128" duration="4254000" />
+      <workItem from="1623676620139" duration="1503000" />
+      <workItem from="1623716931257" duration="5807000" />
+      <workItem from="1623743991921" duration="2758000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29358000" />
+    <option name="totallyTimeSpent" value="183825000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -391,8 +662,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1455" height="944" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24910523" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19613457" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -400,234 +672,494 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.041820418" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.47724476" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.920544" weight="0.27429274" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.92555475" weight="0.41082412" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3296433" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49749464" weight="0.036900368" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49925926" weight="0.32919255" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49925926" weight="0.32919255" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.07945598" side_tool="true" weight="0.3603936" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49821046" weight="0.20418204" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.24982105" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.24552612" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19112384" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.47724476" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.045510456" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.12177122" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.036900368" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.37269372" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.20418204" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.24982105" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.24552612" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/demos/videoCut.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/demos/JavaCameraTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/reUI/MyButtonUI.java">
+    <entry file="jar://S:/apache-maven-3.5.4/repository/com/github/sarxos/webcam-capture/0.3.12/webcam-capture-0.3.12.jar!/com/github/sarxos/webcam/WebcamResolution.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="320">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/reUI/MyComboBoxUI.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_271/src.zip!/javax/swing/AbstractButton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="604">
-          <caret line="86" column="1" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="202">
+          <caret line="2086" column="16" selection-start-line="2086" selection-start-column="16" selection-end-line="2086" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/reUI/MyListCellRenderer.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_271/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="251">
+          <caret line="300" column="30" selection-start-line="300" selection-start-column="30" selection-end-line="300" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/github/sarxos/webcam-capture/0.3.12/webcam-capture-0.3.12.jar!/com/github/sarxos/webcam/util/ImageUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_271/src.zip!/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="148" column="13" selection-start-line="148" selection-start-column="13" selection-end-line="148" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/github/sarxos/webcam-capture/0.3.12/webcam-capture-0.3.12.jar!/com/github/sarxos/webcam/WebcamUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="52" column="85" lean-forward="true" selection-start-line="52" selection-start-column="85" selection-end-line="56" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_271/src.zip!/java/awt/Font.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="606" column="12" selection-start-line="606" selection-start-column="12" selection-end-line="606" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/set.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/webcapTest/simpleVideo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="730">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/github/sarxos/webcam-capture/0.3.12/webcam-capture-0.3.12.jar!/com/github/sarxos/webcam/WebcamDiscoveryService.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="66" column="11" lean-forward="true" selection-start-line="66" selection-start-column="11" selection-end-line="66" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_271/src.zip!/java/awt/Container.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="1261" column="16" selection-start-line="1261" selection-start-column="16" selection-end-line="1261" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_271/src.zip!/java/awt/Dimension.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="63" column="15" selection-start-line="63" selection-start-column="15" selection-end-line="63" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/github/sarxos/webcam-capture/0.3.12/webcam-capture-0.3.12.jar!/com/github/sarxos/webcam/WebcamLock.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="199" selection-start-line="199" selection-end-line="199" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/github/sarxos/webcam-capture/0.3.12/webcam-capture-0.3.12.jar!/com/github/sarxos/webcam/Webcam.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="277" column="21" selection-start-line="277" selection-start-column="21" selection-end-line="277" selection-end-column="21" />
-          <folding>
-            <element signature="e#9635#9636#0" expanded="true" />
-            <element signature="e#9685#9686#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/troll-face.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/github/sarxos/webcam-capture/0.3.12/webcam-capture-0.3.12.jar!/com/github/sarxos/webcam/WebcamPanel.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="718" column="13" selection-start-line="718" selection-start-column="13" selection-end-line="718" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/openimaj/faces/1.3/faces-1.3.jar!/org/openimaj/image/processing/face/detection/DetectedFace.class">
+    <entry file="file://$PROJECT_DIR$/hs_err_pid10004.log" />
+    <entry file="file://$PROJECT_DIR$/hs_err_pid2892.log" />
+    <entry file="jar://S:/apache-maven-3.5.4/repository/xuggle/xuggle-xuggler/5.4/xuggle-xuggler-5.4.jar!/com/xuggle/mediatool/IMediaCoder.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://S:/apache-maven-3.5.4/repository/xuggle/xuggle-xuggler/5.4/xuggle-xuggler-5.4.jar!/com/xuggle/mediatool/IMediaGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://S:/apache-maven-3.5.4/repository/xuggle/xuggle-xuggler/5.4/xuggle-xuggler-5.4.jar!/com/xuggle/mediatool/IMediaTool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://S:/apache-maven-3.5.4/repository/xuggle/xuggle-xuggler/5.4/xuggle-xuggler-5.4.jar!/com/xuggle/mediatool/IMediaWriter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="17" column="59" lean-forward="true" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://S:/apache-maven-3.5.4/repository/xuggle/xuggle-xuggler/5.4/xuggle-xuggler-5.4.jar!/com/xuggle/mediatool/MediaWriter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-133">
+          <caret line="658" column="16" selection-start-line="658" selection-start-column="16" selection-end-line="658" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://S:/apache-maven-3.5.4/repository/xuggle/xuggle-xuggler/5.4/xuggle-xuggler-5.4.jar!/com/xuggle/xuggler/ICodec.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7240">
+          <caret line="404" column="22" selection-start-line="404" selection-start-column="17" selection-end-line="404" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/face1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/webcapTest/timeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="54" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/webcapTest/JProgressBarDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="22" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://S:/apache-maven-3.5.4/repository/com/github/sarxos/webcam-capture/0.3.12/webcam-capture-0.3.12.jar!/com/github/sarxos/webcam/WebcamPanel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="458" column="45" selection-start-line="458" selection-start-column="41" selection-end-line="458" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://S:/apache-maven-3.5.4/repository/org/openimaj/faces/1.3/faces-1.3.jar!/org/openimaj/image/processing/face/detection/DetectedFace.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+          <folding>
+            <element signature="e#1067#1068#0" expanded="true" />
+            <element signature="e#1101#1102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://S:/apache-maven-3.5.4/repository/org/openimaj/core-math/1.3/core-math-1.3.jar!/org/openimaj/math/geometry/shape/Rectangle.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="36" column="11" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://S:/apache-maven-3.5.4/repository/org/openimaj/faces/1.3/faces-1.3.jar!/org/openimaj/image/processing/face/detection/HaarCascadeDetector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2130">
+          <caret line="99" column="30" selection-start-line="99" selection-start-column="30" selection-end-line="99" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_271/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_271/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="140" column="67" selection-start-line="140" selection-start-column="59" selection-end-line="140" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/webcapTest/DetectMotionDoNotEngageZoneExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/webcapTest/DetectMotionEventsExample.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_271/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_271/src.zip!/javax/swing/JFileChooser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="90" column="13" selection-start-line="90" selection-start-column="13" selection-end-line="90" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/webcapTest/MuiltDetection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1180">
+          <caret line="80" column="25" selection-start-line="80" selection-start-column="25" selection-end-line="80" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_271/src.zip!/java/awt/image/BufferedImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="145" column="42" selection-start-line="145" selection-start-column="28" selection-end-line="145" selection-end-column="42" />
+          <folding>
+            <element signature="e#37710#37711#0" expanded="true" />
+            <element signature="e#37786#37787#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/webcapTest/MakeVideoExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="43" column="34" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/webcapTest/DetectMotionExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/webcapTest/FacePainterExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-440">
-          <caret line="53" column="33" lean-forward="true" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
+        <state relative-caret-position="722">
+          <caret line="247" column="5" selection-start-line="247" selection-start-column="5" selection-end-line="247" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/transformers/TaskEffective.java" />
+    <entry file="jar://S:/apache-maven-3.5.4/repository/com/github/sarxos/webcam-capture/0.3.12/webcam-capture-0.3.12.jar!/com/github/sarxos/webcam/util/jh/JHFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="860">
-          <caret line="43" column="33" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
+        <state relative-caret-position="3920">
+          <caret line="196" column="44" selection-start-line="196" selection-start-column="44" selection-end-line="196" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/webcapTest/WecamTutorial.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/demos/FileChooserFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="35" column="52" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
+        <state relative-caret-position="22">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/demos/ImageTransformer2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-498">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/demos/Simple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/demos/SnapVideos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-278">
+          <caret line="94" column="26" selection-start-line="94" selection-start-column="22" selection-end-line="94" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#699#700#0" expanded="true" />
+            <element signature="e#740#741#0" expanded="true" />
+            <element signature="e#1392#1393#0" expanded="true" />
+            <element signature="e#1430#1431#0" expanded="true" />
+            <element signature="e#2137#2138#0" expanded="true" />
+            <element signature="e#2174#2175#0" expanded="true" />
+            <element signature="e#3752#3753#0" expanded="true" />
+            <element signature="e#3784#3785#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entity/Status.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <folding>
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/event/StatusEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="11" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/demos/ImageTransformer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="260" column="7" lean-forward="true" selection-start-line="260" selection-start-column="7" selection-end-line="260" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#filter#0;class#MyEffective#0" />
+            <element signature="docComment;method#basicEffect11#0;class#MyEffective#0" />
+            <element signature="method#basicEffect11#0;class#MyEffective#0" />
+            <element signature="docComment;method#basicEffect10#0;class#MyEffective#0" />
+            <element signature="method#basicEffect10#0;class#MyEffective#0" />
+            <element signature="docComment;method#basicEffect9#0;class#MyEffective#0" />
+            <element signature="method#basicEffect9#0;class#MyEffective#0" />
+            <element signature="docComment;method#basicEffect8#0;class#MyEffective#0" />
+            <element signature="method#basicEffect8#0;class#MyEffective#0" />
+            <element signature="docComment;method#basicEffect7#0;class#MyEffective#0" />
+            <element signature="method#basicEffect7#0;class#MyEffective#0" />
+            <element signature="docComment;method#basicEffect6#0;class#MyEffective#0" />
+            <element signature="method#basicEffect6#0;class#MyEffective#0" />
+            <element signature="docComment;method#basicEffect5#0;class#MyEffective#0" />
+            <element signature="method#basicEffect5#0;class#MyEffective#0" />
+            <element signature="docComment;method#basicEffect4#0;class#MyEffective#0" />
+            <element signature="method#basicEffect4#0;class#MyEffective#0" />
+            <element signature="docComment;method#basicEffect3#0;class#MyEffective#0" />
+            <element signature="method#basicEffect3#0;class#MyEffective#0" />
+            <element signature="docComment;method#basicEffect2#0;class#MyEffective#0" />
+            <element signature="method#basicEffect2#0;class#MyEffective#0" />
+            <element signature="docComment;method#basicEffect1#0;class#MyEffective#0" />
+            <element signature="method#basicEffect1#0;class#MyEffective#0" />
+            <element signature="docComment;method#gaussianBlur#0;class#MyEffective#0" />
+            <element signature="method#gaussianBlur#0;class#MyEffective#0" />
+            <element signature="method#readPixel#0;class#MyEffective#0" />
+            <element signature="method#fillMatrix#0;class#MyEffective#0" />
+            <element signature="method#avgMatrix#0;class#MyEffective#0" />
+            <element signature="docComment;method#basicTransformer6#0;class#MyEffective#0" />
+            <element signature="method#basicTransformer6#0;class#MyEffective#0" />
+            <element signature="docComment;method#basicTransformer5#0;class#MyEffective#0" />
+            <element signature="method#basicTransformer5#0;class#MyEffective#0" />
+            <element signature="docComment;method#basicTransformer4#0;class#MyEffective#0" />
+            <element signature="method#basicTransformer4#0;class#MyEffective#0" />
+            <element signature="docComment;method#basicTransformer3#0;class#MyEffective#0" />
+            <element signature="method#basicTransformer3#0;class#MyEffective#0" />
+            <element signature="docComment;method#basicTransformer2#0;class#MyEffective#0" />
+            <element signature="method#basicTransformer2#0;class#MyEffective#0" />
+            <element signature="docComment;method#basicTransformer1#0;class#MyEffective#0" />
+            <element signature="method#basicTransformer1#0;class#MyEffective#0" />
+            <element signature="docComment;method#foldTransformer2#0;class#MyEffective#0" />
+            <element signature="method#foldTransformer2#0;class#MyEffective#0" />
+            <element signature="docComment;method#foldTransformer1#0;class#MyEffective#0" />
+            <element signature="method#foldTransformer1#0;class#MyEffective#0" />
+            <element signature="docComment;method#blurTransformer#0;class#MyEffective#0" />
+            <element signature="method#blurTransformer#0;class#MyEffective#0" />
+            <element signature="method#convertType#0;class#MyEffective#0" />
+            <element signature="docComment;method#blackTransformer#0;class#MyEffective#0" />
+            <element signature="method#blackTransformer#0;class#MyEffective#0" />
+            <element signature="docComment;method#grayTransformer#0;class#MyEffective#0" />
+            <element signature="method#grayTransformer#0;class#MyEffective#0" />
+            <element signature="class#ImageTransformer#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/listener/StatusListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="53" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_271/src.zip!/javax/imageio/ImageIO.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/reUI/MyButtonUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24980">
-          <caret line="1345" column="48" selection-start-line="1345" selection-start-column="37" selection-end-line="1345" selection-end-column="48" />
+        <state relative-caret-position="140">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reUI/MyComboBoxUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/reUI/MyListCellRenderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/views/VideoCam.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1091#1092#0" expanded="true" />
-            <element signature="e#1120#1121#0" expanded="true" />
-            <element signature="e#1164#1165#0" expanded="true" />
-            <element signature="e#1200#1201#0" expanded="true" />
-            <element signature="e#1250#1251#0" expanded="true" />
-            <element signature="e#1297#1298#0" expanded="true" />
-            <element signature="e#1325#1326#0" expanded="true" />
-            <element signature="e#1352#1353#0" expanded="true" />
-            <element signature="e#1389#1390#0" expanded="true" />
-            <element signature="e#1421#1422#0" expanded="true" />
-            <element signature="e#1462#1463#0" expanded="true" />
-            <element signature="e#1497#1498#0" expanded="true" />
-            <element signature="e#1555#1556#0" expanded="true" />
-            <element signature="e#1603#1604#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/webcapTest/simpleCutImg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="13" column="62" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
+        <state relative-caret-position="620">
+          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/webcapTest/WebcamConnectingTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/transformers/MyEffective.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="3297">
+          <caret line="432" column="16" selection-start-line="432" selection-start-column="16" selection-end-line="432" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#filter#0;class#MyEffective#0" />
+            <element signature="e#1371#1372#0" expanded="true" />
+            <element signature="e#1398#1399#0" expanded="true" />
+            <element signature="method#basicTransformers#0;class#MyEffective#0" />
+            <element signature="method#basicEffects#0;class#MyEffective#0" />
+            <element signature="method#saveToSrc#0;class#MyEffective#0" />
+            <element signature="docComment;method#chooseEffects#0;class#MyEffective#0" />
+            <element signature="docComment;method#basicEffect1#0;class#MyEffective#0" />
+            <element signature="docComment;method#basicEffect2#0;class#MyEffective#0" />
+            <element signature="docComment;method#basicEffect3#0;class#MyEffective#0" />
+            <element signature="method#basicEffect4#0;class#MyEffective#0" />
+            <element signature="docComment;method#basicEffect5#0;class#MyEffective#0" />
+            <element signature="method#basicEffect5#0;class#MyEffective#0" />
+            <element signature="docComment;method#basicEffect6#0;class#MyEffective#0" />
+            <element signature="docComment;method#basicEffect7#0;class#MyEffective#0" />
+            <element signature="docComment;method#basicEffect8#0;class#MyEffective#0" />
+            <element signature="method#basicEffect8#0;class#MyEffective#0" />
+            <element signature="docComment;method#basicEffect9#0;class#MyEffective#0" />
+            <element signature="method#basicEffect9#0;class#MyEffective#0" />
+            <element signature="docComment;method#basicEffect10#0;class#MyEffective#0" />
+            <element signature="docComment;method#basicEffect11#0;class#MyEffective#0" />
+            <element signature="docComment;field#martrix#0;class#MyEffective#0" />
+            <element signature="method#readPixel#0;class#MyEffective#0" />
+            <element signature="method#fillMatrix#0;class#MyEffective#0" />
+            <element signature="docComment;method#basicEffect13#0;class#MyEffective#0" />
+            <element signature="docComment;method#combineTransformer#0;class#MyEffective#0" />
+            <element signature="docComment;method#basicTransformer5#0;class#MyEffective#0" />
+            <element signature="method#basicTransformer5#0;class#MyEffective#0" />
+            <element signature="docComment;method#basicTransformer4#0;class#MyEffective#0" />
+            <element signature="docComment;method#basicTransformer3#0;class#MyEffective#0" />
+            <element signature="method#basicTransformer3#0;class#MyEffective#0" />
+            <element signature="docComment;method#basicTransformer2#0;class#MyEffective#0" />
+            <element signature="method#basicTransformer2#0;class#MyEffective#0" />
+            <element signature="method#basicTransformer1#0;class#MyEffective#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/transformers/TransformerUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -636,17 +1168,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/views/Window.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        <state relative-caret-position="-930">
+          <caret line="592" column="76" lean-forward="true" selection-start-line="592" selection-start-column="76" selection-end-line="592" selection-end-column="76" />
           <folding>
-            <element signature="method#setOptions#0;class#Window#0" />
-            <element signature="method#cutImage#0;class#Window#0" />
-            <element signature="method#hahaMagic#0;class#Window#0" />
-            <element signature="method#basicMagic#0;class#Window#0" />
-            <element signature="method#setOpenAndHelp#0;class#Window#0" />
-            <element signature="method#getNormailBtns#0;class#Window#0" />
-            <element signature="method#cutImageFrame#0;class#Window#0" />
-            <element signature="method#defaultFrame#0;class#Window#0" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1270#1313#0" />
+            <element signature="e#4236#4296#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/transformers/taskFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="84" column="29" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/transformers/MakeVideo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/demos/ObjectFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-838">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -660,7 +1219,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.2635379" />
               </list>
             </option>
           </splitter-proportions>
@@ -672,7 +1231,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.7240964" />
+                <option value="0.2635379" />
               </list>
             </option>
           </splitter-proportions>
@@ -680,10 +1239,11 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>html5</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.20882353" />
+                <option value="0.2635379" />
               </list>
             </option>
           </splitter-proportions>
@@ -695,7 +1255,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.20882353" />
+                <option value="0.2635379" />
               </list>
             </option>
           </splitter-proportions>
@@ -707,7 +1267,8 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.7240964" />
+                <option value="0.2635379" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -731,7 +1292,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.7240964" />
+                <option value="0.2635379" />
               </list>
             </option>
           </splitter-proportions>
