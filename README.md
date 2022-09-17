@@ -436,7 +436,7 @@ class taskEffect extends RecursiveAction {
 
 【实现思路】参考了主流的视频播放软件，界面最终确定为单窗口设定，即
 
-![基本框架设计](png\基本框架设计.png)
+![基本框架设计](https://github.com/ambitiousCC/HaHaMirror/blob/master/png/%E5%9F%BA%E6%9C%AC%E6%A1%86%E6%9E%B6%E8%AE%BE%E8%AE%A1.png)
 
 主要界面布局：
 
@@ -454,7 +454,7 @@ class taskEffect extends RecursiveAction {
 
 【设计实现】利用Java的awt包，根据图形界面分布完成各个组件的分布和大小调整。并将所有UI自定义，最终的效果图如图所示：
 
-![image-20210518150114237](png\最终实现.png)
+![image-20210518150114237](https://github.com/ambitiousCC/HaHaMirror/blob/master/png/%E6%9C%80%E7%BB%88%E5%AE%9E%E7%8E%B0.png)
 
 其中，选择的界面修改成为了根据运行环境选择最合适的UI，实现代码如下：
 
